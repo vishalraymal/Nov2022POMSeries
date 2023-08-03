@@ -29,15 +29,6 @@ public class LoginPageTest extends BaseTest {
 	public void loginPage() {
 		loginPage.doLogin("naveen@gmail.com", "test@123");
 	}
-	
-	@Test
-	public void thridUmprire() {
-		System.out.println("NOT OUT");
-	}
-	
-	@Test
-	public void fourthUmpire() {
-		System.out.println("Fourth Umpire");
-	}
+
 
 }
