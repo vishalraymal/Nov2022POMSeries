@@ -34,5 +34,10 @@ public class LoginPageTest extends BaseTest {
 	public void thridUmprire() {
 		System.out.println("NOT OUT");
 	}
+	
+	@Test
+	public void fourthUmpire() {
+		System.out.println("Fourth Umpire");
+	}
 
 }
