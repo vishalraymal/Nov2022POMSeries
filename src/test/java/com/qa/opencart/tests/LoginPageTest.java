@@ -30,4 +30,8 @@ public class LoginPageTest extends BaseTest {
 		loginPage.doLogin("naveen@gmail.com", "test@123");
 	}
 
+	@Test
+	public void testOne() {
+		System.out.println("Test");
+	}
 }
